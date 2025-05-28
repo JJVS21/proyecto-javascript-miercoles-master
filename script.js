@@ -47,7 +47,7 @@ function addStudentToTable(student) {
         <td>${student.name}</td>
         <td>${student.lastName}</td>
         <td>${student.grade}</td>
-        <td> <button class="delete">Eliminar</button><button class="modify">Editar </button></td>
+        <td> <button class="delete">Eliminar <button class="modify">Editar </button></td>
        
     `;
 
